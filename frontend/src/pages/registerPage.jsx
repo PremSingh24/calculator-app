@@ -175,6 +175,5 @@ const RegisterPage = () => {
   );
 };
 
-//cto@levontechno.com
 
 export default RegisterPage;
